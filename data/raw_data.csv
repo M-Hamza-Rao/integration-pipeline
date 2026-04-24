@@ -1,0 +1,21 @@
+name,email,age,city
+John Doe,john@example.com,29,Munich
+Jane Smith,,34,Berlin
+Mike Ross,mike@,NaN,Hamburg
+Anna Müller,anna@example.com,27,Munich
+Chris Evans,chris@@example.com,40,Cologne
+Laura Becker,laura.becker@example.com,31,Berlin
+Tom Fischer,tom.fischer@example,22,Hamburg
+Sara Klein,sara.klein@example.com,,Munich
+David Wagner,david.wagner@example.com,45,
+Nina Schmidt,nina.schmidt@example.com,28,Berlin
+Paul Weber,paul.weber@sample.com,thirty,Cologne
+Lena Hoffmann,lena.hoffmann@example.com,26,Hamburg
+Max König,max.koenig@example.com,33,Munich
+Julia Braun,julia.braun@,29,Berlin
+Felix Schulz,felix.schulz@example.com,NaN,Cologne
+Emma Neumann,emma.neumann@example.com,24,Hamburg
+Leon Hartmann,,38,Munich
+Mia Krüger,mia.krueger@example.com,27,Berlin
+Noah Vogel,noah.vogel@example,41,Cologne
+Clara Lehmann,clara.lehmann@example.com,30,Hamburg
