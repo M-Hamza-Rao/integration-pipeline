@@ -1,0 +1,40 @@
+2026-04-24 03:40:21,991 - INFO - SUCCESS: john@example.com
+2026-04-24 03:40:22,536 - INFO - SUCCESS: anna@example.com
+2026-04-24 03:40:22,878 - INFO - SUCCESS: chris@@example.com
+2026-04-24 03:40:23,211 - INFO - SUCCESS: laura.becker@example.com
+2026-04-24 03:40:23,583 - INFO - SUCCESS: tom.fischer@example
+2026-04-24 03:40:23,583 - WARNING - RETRY 1: david.wagner@example.com
+2026-04-24 03:40:23,584 - WARNING - RETRY 2: david.wagner@example.com
+2026-04-24 03:40:23,584 - WARNING - RETRY 3: david.wagner@example.com
+2026-04-24 03:40:23,585 - ERROR - FAILED: david.wagner@example.com
+2026-04-24 03:40:23,949 - INFO - SUCCESS: nina.schmidt@example.com
+2026-04-24 03:40:23,949 - WARNING - RETRY 1: lena.hoffmann@example.com
+2026-04-24 03:40:24,323 - INFO - SUCCESS: lena.hoffmann@example.com
+2026-04-24 03:40:24,324 - WARNING - RETRY 1: max.koenig@example.com
+2026-04-24 03:40:24,324 - WARNING - RETRY 2: max.koenig@example.com
+2026-04-24 03:40:24,694 - INFO - SUCCESS: max.koenig@example.com
+2026-04-24 03:40:25,038 - INFO - SUCCESS: julia.braun@
+2026-04-24 03:40:25,424 - INFO - SUCCESS: emma.neumann@example.com
+2026-04-24 03:40:25,788 - INFO - SUCCESS: mia.krueger@example.com
+2026-04-24 03:40:26,144 - INFO - SUCCESS: noah.vogel@example
+2026-04-24 03:40:26,492 - INFO - SUCCESS: clara.lehmann@example.com
+2026-04-24 03:48:03,735 - INFO - SUCCESS: john@example.com
+2026-04-24 03:48:04,080 - INFO - SUCCESS: anna@example.com
+2026-04-24 03:48:04,439 - INFO - SUCCESS: chris@@example.com
+2026-04-24 03:48:04,439 - WARNING - RETRY 1: laura.becker@example.com
+2026-04-24 03:48:04,788 - INFO - SUCCESS: laura.becker@example.com
+2026-04-24 03:48:05,163 - INFO - SUCCESS: tom.fischer@example
+2026-04-24 03:48:05,163 - WARNING - RETRY 1: david.wagner@example.com
+2026-04-24 03:48:05,163 - WARNING - RETRY 2: david.wagner@example.com
+2026-04-24 03:48:05,163 - WARNING - RETRY 3: david.wagner@example.com
+2026-04-24 03:48:05,163 - ERROR - FAILED: david.wagner@example.com
+2026-04-24 03:48:05,163 - WARNING - RETRY 1: nina.schmidt@example.com
+2026-04-24 03:48:05,521 - INFO - SUCCESS: nina.schmidt@example.com
+2026-04-24 03:48:05,890 - INFO - SUCCESS: lena.hoffmann@example.com
+2026-04-24 03:48:06,260 - INFO - SUCCESS: max.koenig@example.com
+2026-04-24 03:48:06,615 - INFO - SUCCESS: julia.braun@
+2026-04-24 03:48:06,966 - INFO - SUCCESS: emma.neumann@example.com
+2026-04-24 03:48:07,350 - INFO - SUCCESS: mia.krueger@example.com
+2026-04-24 03:48:07,694 - INFO - SUCCESS: noah.vogel@example
+2026-04-24 03:48:07,694 - WARNING - RETRY 1: clara.lehmann@example.com
+2026-04-24 03:48:08,054 - INFO - SUCCESS: clara.lehmann@example.com
